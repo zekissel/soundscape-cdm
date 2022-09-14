@@ -2,7 +2,7 @@
 <h2>Soundscape Narrative for ENGCMP0610 (Composing Digital Media)</h2>
 <h4>By: Zane Kissel</h4>
 <hr>
-<h3>14 September 2022:</h3>
+<h3>14 September 2022, First Draft:</h3>
 <p>To start off my project I've included urban sounds in the first half of my project, and sounds of nature in the second half.
 All of the audio included in the project has been recorded by myself, on my cellphone.</p>
 
