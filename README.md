@@ -1,5 +1,5 @@
 # soundscape-cdm
-Soundscape narrative project for Composing Digital Media (ENGCMP0610)
+<h1>Soundscape narrative project for Composing Digital Media (ENGCMP0610)</h1>
 
 14 September 2022:
 To start off my project I've included urban sounds in the first half of my project, and sounds of nature in the second half.
