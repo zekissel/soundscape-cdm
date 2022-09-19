@@ -1,1 +1,10 @@
 <!-- ALL AUDIO RECORDINGS IN THIS PROJECT WERE RECORDED PRIVATELY BY THE AUTHOR (ZANE KISSEL) -->
+
+<h2><b>Sources: </b></h2>
+
+<ul>
+  <li>Title: Soundscape Narrative</li>
+  <li>Author: Zane Kissel</li>  
+</ul>
+
+<p><i>THIS PROJECT IS AN AGGREGATE OF MULTIPLE SOUNDS, ALL OF WHICH WERE PRIVATELY RECORDED BY THE AUTHOR</i></p>
