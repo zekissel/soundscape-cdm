@@ -26,6 +26,6 @@ All of the audio included in the project has been recorded by myself, on my cell
 
 <img src="projectpic3.png">
 
-<p>Lastly I have embedded a picture of my entire project as it is right now, which is a lot more full than my initial draft. Finishing touches I wish to incorporate still include smoothing out more transitions, and ensuring there is an interesting sound to focus on throughout the whole project.</p>
+<p>Lastly I have embedded a picture of my entire project as it is right now, which is a lot more full than my initial draft. For finishing touches I still wish to incorporate smoother transitions, and ensure that there is an interesting sound to focus on throughout the whole piece.</p>
 
 <hr>
