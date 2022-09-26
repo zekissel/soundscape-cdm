@@ -10,4 +10,4 @@
 
 <img src="project-final.png">
 
-<i>Note: project pictures and insights are found under 'reflection.md', all previous project submissions can be found under 'archive.md'</i>
+<i>Note: project pictures and insights are found under 'reflection.md', all previous project submissions can be found under 'archive.md', aup3 file can be found on Canvas "Soundscape Narrative Final-For-Now Draft"</i>
