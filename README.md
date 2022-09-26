@@ -10,4 +10,4 @@
 
 <img src="project-final.png">
 
-<i>Note: all previous project submissions can be found under 'archive.md', project pictures and insight are found under 'reflection.md'</i>
+<i>Note: project pictures and insights are found under 'reflection.md', all previous project submissions can be found under 'archive.md'</i>
